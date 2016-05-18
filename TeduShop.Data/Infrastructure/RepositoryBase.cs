@@ -6,7 +6,7 @@ using System.Linq.Expressions;
 
 namespace TeduShop.Data.Infrastructure
 {
-    public abstract class RepositoryBase<T> where T : class
+    public abstract class RepositoryBase<T>: IRepository<T> where T : class
     {
         #region Properties
 
@@ -132,6 +132,8 @@ namespace TeduShop.Data.Infrastructure
         {
             return dataContext.Set<T>().Count<T>(predicate) > 0;
         }
+
+        public abstract bool CheckCotains(Expression<Func<T, bool>> predicate);
 
         #endregion Implementation
     }
