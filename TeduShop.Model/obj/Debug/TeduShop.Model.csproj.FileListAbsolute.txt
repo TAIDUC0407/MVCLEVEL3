@@ -1,0 +1,10 @@
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll.config
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\bin\Debug\TeduShop.Model.pdb
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\bin\Debug\EntityFramework.SqlServer.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.csprojResolveAssemblyReference.cache
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\SOURCE\TeduShop\TeduShop.Model\obj\Debug\TeduShop.Model.pdb
