@@ -14,10 +14,5 @@ namespace TeduShop.Data.Repositories
         public SystemConfigRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
-
-        public override bool CheckCotains(Expression<Func<SystemConfig, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

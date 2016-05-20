@@ -139,7 +139,6 @@ namespace TeduShop.Data.Infrastructure
             return dataContext.Set<T>().Count<T>(predicate) > 0;
         }
 
-        public abstract bool CheckCotains(Expression<Func<T, bool>> predicate);
 
         #endregion Implementation
     }

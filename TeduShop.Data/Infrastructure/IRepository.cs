@@ -28,6 +28,6 @@ namespace TeduShop.Data.Infrastructure
 
         int Count(Expression<Func<T, bool>> where);
 
-        bool CheckCotains(Expression<Func<T, bool>> predicate);
+        bool CheckContains(Expression<Func<T, bool>> predicate);
     }
 }

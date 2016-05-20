@@ -14,10 +14,5 @@ namespace TeduShop.Data.Repositories
         public SlideRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
-
-        public override bool CheckCotains(Expression<Func<Slide, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

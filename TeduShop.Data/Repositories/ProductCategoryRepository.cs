@@ -22,11 +22,6 @@ namespace TeduShop.Data.Repositories
 
         }
 
-        public override bool CheckCotains(Expression<Func<ProductCategory, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
-
         public IEnumerable<ProductCategory> GetByAlias(string alias)
         {
             return this.DbContext.ProductCategories.Where(x => x.Alias == alias);

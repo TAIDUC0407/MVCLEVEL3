@@ -14,10 +14,5 @@ namespace TeduShop.Data.Repositories
         public SupportOnlineRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
-
-        public override bool CheckCotains(Expression<Func<SupportOnline, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

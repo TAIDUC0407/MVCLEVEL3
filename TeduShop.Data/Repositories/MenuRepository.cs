@@ -15,9 +15,5 @@ namespace TeduShop.Data.Repositories
         {
         }
 
-        public override bool CheckCotains(Expression<Func<Menu, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

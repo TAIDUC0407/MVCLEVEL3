@@ -14,10 +14,5 @@ namespace TeduShop.Data.Repositories
         public PostCategoryRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
-
-        public override bool CheckCotains(Expression<Func<PostCategory, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

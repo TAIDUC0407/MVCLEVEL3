@@ -14,10 +14,5 @@ namespace TeduShop.Data.Repositories
         public PostTagRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
-
-        public override bool CheckCotains(Expression<Func<PostTag, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

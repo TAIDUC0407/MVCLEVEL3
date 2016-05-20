@@ -18,10 +18,5 @@ namespace TeduShop.Data.Repositories
         public MenuGroupRepository(IDbFactory dbFactory) : base(dbFactory)
         {
         }
-
-        public override bool CheckCotains(Expression<Func<MenuGroup, bool>> predicate)
-        {
-            throw new NotImplementedException();
-        }
     }
 }
