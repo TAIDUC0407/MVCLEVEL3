@@ -125,3 +125,17 @@ E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.xml
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.dll
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\AutoMapper.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Security.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\AutoMapper.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Security.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Web\bin\Microsoft.Owin.Security.OAuth.xml

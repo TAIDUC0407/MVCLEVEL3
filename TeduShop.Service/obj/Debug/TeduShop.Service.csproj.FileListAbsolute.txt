@@ -22,3 +22,7 @@ E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Service\obj\Debug\TeduShop.Service.csprojResolveAssemblyReference.cache
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Service\obj\Debug\TeduShop.Service.dll
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Service\obj\Debug\TeduShop.Service.pdb
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
