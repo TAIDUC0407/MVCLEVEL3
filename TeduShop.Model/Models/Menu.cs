@@ -13,8 +13,8 @@ namespace TeduShop.Model.Models
     {
         [Key]
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-
         public int ID { get; set; }
+
         [Required]
         [MaxLength(50)]
         public string Name { get; set; }
@@ -24,6 +24,7 @@ namespace TeduShop.Model.Models
         public string URL { get; set; }
 
         public int? DisplayOrder { get; set; }
+
         [Required]
         public int GroupID { get; set; }
         [ForeignKey("GroupID")]
@@ -31,6 +32,7 @@ namespace TeduShop.Model.Models
 
         [MaxLength(10)]
         public string Target { get; set; }
+
         [Required]
         public bool Status { get; set; }
 
