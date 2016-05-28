@@ -217,7 +217,7 @@
     <Content Include="app\components\products\product.routes.js" />
     <Content Include="app\components\products\productListController.js" />
     <Content Include="app\components\products\productEditController.js" />
-    <Content Include="app\shared\app.js" />
+    <Content Include="app\app.js" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
@@ -234,9 +234,9 @@
     <Folder Include="app\components\product_categories\" />
     <Folder Include="app\components\roles\" />
     <Folder Include="app\components\users\" />
-    <Folder Include="app\shared\directive\" />
     <Folder Include="app\shared\footer\" />
     <Folder Include="app\shared\navigation\" />
+    <Folder Include="app\shared\services\" />
     <Folder Include="Assets\admin\css\" />
     <Folder Include="Assets\admin\img\" />
     <Folder Include="Assets\admin\js\" />
@@ -275,7 +275,7 @@
     <Content Include="Views\Admin\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="app\shared\app.routes.js" />
+    <Content Include="app\app.routes.js" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
