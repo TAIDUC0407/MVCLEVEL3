@@ -29,6 +29,22 @@
             </div>
         </div>
         <div class="box-body">
+            <table class="table table-condensed">
+                <tr>
+                    <th style="width: 10px">ID</th>
+                    <th>Tên danh mục</th>
+                    <th>Ngày tạo</th>
+                    <th style="width: 40px">Trạng thái</th>
+                </tr>
+                <tr ng-repeat="item in productCategories">
+                    <td>{{item.ID}}</td>
+                    <td>{{item.Name}}</td>
+                    <td>
+                        {{item.CreatedDate}}
+                    </td>
+                    <td><span class="badge bg-red">{{item.Status}}</span></td>
+                </tr>
+            </table>
         </div>
         <!-- /.box-body -->
         <div class="box-footer">

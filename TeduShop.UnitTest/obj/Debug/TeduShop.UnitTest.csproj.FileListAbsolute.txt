@@ -128,3 +128,5 @@ E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.UnitTest\bin\Debug\Autofac.Integration.Mvc.xml
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.UnitTest\bin\Debug\Autofac.Integration.WebApi.xml
 E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\ALL_CODE\VD_CODE\ASP_MVC\MyClass\TaiLieu_MyClass\LV3_TAILIEU_ASP_MVC5_LV3\GIT\TeduShop.UnitTest\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
