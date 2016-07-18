@@ -29,6 +29,26 @@ namespace TeduShop.Web.Infrastructure.Extentions
             postCategory.Status = postCategoryVM.Status;
         }
 
+        public static void UpdateProductCategory(this ProductCategory productCategory, ProductCategoryViewModel productCategoryVM)
+        {
+            productCategory.ID = productCategoryVM.ID;
+            productCategory.Name = productCategoryVM.Name;
+            productCategory.Description = productCategoryVM.Description;
+            productCategory.Alias = productCategoryVM.Alias;
+            productCategory.ParentID = productCategoryVM.ParentID;
+            productCategory.DisplayOrder = productCategoryVM.DisplayOrder;
+            productCategory.Image = productCategoryVM.Image;
+            productCategory.HomeFlag = productCategoryVM.HomeFlag;
+
+            productCategory.CreatedDate = productCategoryVM.CreatedDate;
+            productCategory.CreatedBy = productCategoryVM.CreatedBy;
+            productCategory.UpdatedDate = productCategoryVM.UpdatedDate;
+            productCategory.UpdatedBy = productCategoryVM.UpdatedBy;
+            productCategory.MetaKeyword = productCategoryVM.MetaKeyword;
+            productCategory.MetaDescription = productCategoryVM.MetaDescription;
+            productCategory.Status = productCategoryVM.Status;
+        }
+
         public static void UpdatePost(this Post post, PostViewModel postVm)
         {
             post.ID = postVm.ID;
